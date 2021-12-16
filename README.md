@@ -1,7 +1,7 @@
-1.General information
+#1.General information
 This section explains in general terms the system and the purpose for which it is intended.
 
-1.1	System Overview
+##1.1	System Overview
 
 Rklul47 FTP Server is an application which allows users to store their valuable information (files) on to a server. The graphical user interface of the application allows users to upload and download their files in a secure way. Moreover, it allows users to update their files in the server too. The application stores the data to a local disk folder(server). 
 
